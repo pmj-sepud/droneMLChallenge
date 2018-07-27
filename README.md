@@ -1,11 +1,11 @@
-# Automação de Contagem de Tráfego através de filmagens com Drones
+# Desafio: ML para Contagem de Tráfego através de filmagens com Drones
 
-## O desafio proposto consiste em uma **Solução** com o seguinte meta: 
+## O desafio proposto consiste em criar uma Solução para: 
 
-Classificar e Somar o Fluxo total por sentido de deslocamento (número de veículos/sentido de deslocamento) através do aprendizado de máquina. O seu objetivo principal é transformar o trabalho que hoje é feito de forma manual em um modelo treinado para todas as ruas da nossa cidade.
+Classificar e somar o Fluxo total de veículos por sentido de deslocamento (número de veículos/sentido de deslocamento) através do aprendizado de máquina. O objetivo principal é transformar o trabalho que hoje é feito de forma manual em um modelo treinado para todas as ruas da nossa cidade.
  
 
-![Drone gif](https://github.com/joinvalle/droneMLChallenge/blob/master/drone_jlle_sample.gif)
+![Drone gif](https://github.com/joinvalle/droneMLChallenge/blob/master/media/drone_jlle_sample.gif)
 
 ### Premissas
 
@@ -19,6 +19,7 @@ A **Solução** deverá seguir os níveis de sofisticação abaixo:
 
 Os **vídeos** disponibilizados para o treinamento dos modelos são:  
 > [V1 - Ruas Ottokar Doerffel x Marquês de Olinda | Data: 30/11/2017](https://youtu.be/0YFNdg4W-Tw) 
+
 > [V2 - Ruas Ottokar Doerffel x Marquês de Olinda | Data: 06/12/2017](https://youtu.be/Q6_SGWxeSko)
 
 
