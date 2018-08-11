@@ -1,4 +1,4 @@
-# Desafio: ML para Contagem de Tráfego através de filmagens com Drones
+# Desafio: Contagem de Tráfego através de filmagens com Drones
 
 ## O desafio proposto consiste em criar uma Solução para: 
 
